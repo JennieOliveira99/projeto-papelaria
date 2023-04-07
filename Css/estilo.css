@@ -1,0 +1,208 @@
+
+
+body{
+    
+background-color:rgb(7, 201, 250);
+font-family: "Calibri", Times, serif
+}
+
+#container{
+width: 960px;
+margin-left:auto;
+margin-right:auto;
+background-color:rgb(7, 201, 250);
+
+}
+
+#topo-site{
+width: 960px;
+height:194px;
+float: left;
+background-color: rgb(7, 201, 250);
+
+}
+
+#logo{
+width: 300px;
+height:77px;
+float: left;
+margin-left:40px;
+margin-top: -30px;
+}
+
+.rede-sociais{
+width: 116px;
+height: 50px;
+float: right;
+margin-right: 40px;
+margin-top: 70px;
+}
+
+.menu_simple{
+width: 960px;
+height:40px;
+float: left;
+margin-top: 40px;
+background-color: #022A4F;
+
+}
+
+.menu_simple ul {
+margin: 0; 
+padding: 0;
+float: left
+}
+
+.menu_simple ul li {
+    display: inline
+}
+
+.menu_simple ul li a {
+    float: left; 
+    text-decoration: none;
+    color: white;
+    padding: 10.5px 11px;
+    margin-left: 100px;
+    background-color: #022A4F;    
+}
+
+.menu_simple ul li a:visited{
+color: white;
+}
+
+.menu_simple ul li a:hover, .menu_simple ul li .current{
+    color: white;
+    background-color: rgb(155, 158, 161);
+}
+
+#slide{
+
+float: left;
+margin-top: 10px;
+}
+
+#rodape-site{
+width: 960px;
+height: 300px;
+float: left;
+background-color:  #022A4F;
+margin-top: 10px;
+
+}
+
+.caixa-conteudo{
+width: 281px;
+height: 206px;
+float: left;
+margin-left:17px;
+padding-left: 17px;
+margin-top: 40px;
+}
+
+.caixa-conteudo h3{
+    color: white;
+    margin-left: 50px;
+}
+
+.caixa-conteudo ul {
+    list-style: none;
+    float: left;
+    color: white;
+    margin-top:-10px;
+    margin-left: 10px;
+    }
+    .caixa-conteudo ul li{
+        margin-top: 10px;
+    }
+
+    .caixa-conteudo li a{
+        text-decoration: none;
+        margin-right: 10px;
+        color: white;
+    }
+
+
+#autor-site{
+width: 960px;
+height: 40px;
+float: left;
+
+background-color: rgb(155, 158, 161);
+padding-top: 10px;
+color: white;
+}
+.inicio{
+    width: 960px;
+height: 40px;
+float: left;
+background-color: rgb(155, 158, 161);
+
+
+padding-top: 10px;
+color: white;
+
+}
+#conteudo-nosso{
+width: 960px;
+height: px;
+float: left;
+text-align: center;
+background-color:  #022A4F;
+}
+.quem-somos{
+    
+    height: 600px;
+    color: white;
+}
+  
+  
+
+#pos-quem{
+width: 960px;
+height: 600px;
+float: left;
+text-align: center;
+background-color:  #022A4F;
+
+}
+.mais-pesquisados{
+
+width: 960px;
+height: 40px;
+
+color:white;
+background-color: rgb(155, 158, 161);
+}
+.texto-mais{
+    
+    height: 600px;
+    color: white;
+    float: center;
+  
+}
+
+#localizacao{
+margin-top: 40px;
+width: 960px;
+height: 55px;
+float: left;
+color: white;
+background-color:rgb(155, 158, 161);
+}
+.lugar{
+
+width: 960px;
+height: 600px;
+float: left;
+color: white;
+background-color:  #022A4F;
+
+}
+#credito{
+
+width: 960px;
+height: 55px;
+float: left;
+color: white;
+background-color:rgb(155, 158, 161);
+}
